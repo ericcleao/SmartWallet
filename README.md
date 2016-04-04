@@ -1,4 +1,4 @@
-Smart Wallet 
+#Smart Wallet 
 	It's a app that will provide the control of the user bank account or any account of debit or credit, at the version 1 (actual version) it won't inserting the accounts at the database, so while the program is open the app will work just fine, please, report any bug or wrong feature to the email: ericcleao@gmail.com. For the Google Study Jams I added a button "hint" that shows 5 hints for the user, to him learn 5 ways to save his money.
 		Move bank accounts to take advantage of perks and earn more interest;
 		Stop collecting, and start selling;
@@ -6,12 +6,12 @@ Smart Wallet
 		Avoid convenience foods and fast food;
 		Buy used when you can.
 
-Pre-requisites
+##Pre-requisites
 	Minimun Android SDK v14
 	Target Android SDK v23
 	Android Build Tools v23.0.2
 	Android Support Library 23.2
-License
+##License
 	Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
  
 
